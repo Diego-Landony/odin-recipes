@@ -3,8 +3,8 @@
 
 ## Introducción
 
-Es hora de practicar todos los conocimientos de HTML que has adquirido. En este proyecto, vas a crear un sitio web de recetas básicas.
-El sitio web constará de una página de índice principal que tendrá enlaces a algunas recetas.
+Hora de practicar todos los conocimientos de HTML adquiridos. En este proyecto, se ha creado un sitio web de recetas básicas.
+El sitio web consta de una página de índice principal la cual tiene enlaces a algunas recetas.
 
 ## Poniendo en práctica
 
